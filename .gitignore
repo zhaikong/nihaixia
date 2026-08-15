@@ -20,3 +20,5 @@ __pycache__/
 Thumbs.db
 Desktop.ini
 .DS_Store
+config.bat
+node_modules
